@@ -2,12 +2,10 @@
 
 
 ## AIM
-Write the experiment AIM.
+To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
 
 ## PROBLEM STATEMENT
-Explain the problem statement.
-
-
+Develop a Python program to derive the optimal policy using Q-Learning and compare state values with Monte Carlo method.
 
 ## Q LEARNING FUNCTION
 
@@ -71,5 +69,4 @@ def q_learning(env,
 
 
 ## RESULT:
-
-Write your result here
+Thus, Q-Learning outperformed Monte Carlo in finding the optimal policy and state values for the RL problem.
